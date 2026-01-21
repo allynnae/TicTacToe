@@ -1,0 +1,4 @@
+gymnasium[classic-control]>=0.29.1
+stable-baselines3>=2.3.2
+wandb>=0.16.4
+tensorboard>=2.18.0

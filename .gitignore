@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+wandb/
+runs/
+models/
+.DS_Store
